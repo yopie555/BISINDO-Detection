@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/bisindo 2/images/train
+val: /content/drive/MyDrive/bisindo 2/images/val
+
+nc: 26  # Jumlah kelas (26 untuk alfabet A-Z)
+names: [ "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z" ]
